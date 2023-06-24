@@ -138,9 +138,3 @@ Aplico RobustScaling
 El modelo que mejor me ha funcionado es LGBMRegressor
 
 
-El modelo que mejor me ha funcionado es: 
-
-
-
-
-
