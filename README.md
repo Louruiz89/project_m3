@@ -127,7 +127,18 @@ clarity/weight_VS2
 clarity/weight_VVS1
 clarity/weight_VVS2
 
-- Y: Mi 
+- Y: Mi target es "precio"
+
+## SCALING
+
+Aplico RobustScaling
+
+## MODELING
+
+El modelo que mejor me ha funcionado es LGBMRegressor
+
+
+El modelo que mejor me ha funcionado es: 
 
 
 
